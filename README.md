@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sangit GyawaliX</h1>
+<h1 align="center">Hi 👋, I'm Sangit Gyawali</h1>
 <h3 align="center">A passionate Mobile App Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangitgyawali&label=Profile%20views&color=0e75b6&style=flat" alt="sangitgyawali" /> </p>
